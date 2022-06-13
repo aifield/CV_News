@@ -24,6 +24,7 @@ slackで論文などの情報を共有し、月に1回その中から論文を�
 
 ## 発表
 - 月に1回、1時間程度
+- connpassで開催
 - 2人発表
 - 発表時間は1人30分程度
 - 業務終了後
@@ -50,7 +51,7 @@ slackで論文などの情報を共有し、月に1回その中から論文を�
   信憑性が低いものも混ざっている
 - [arxiveTimes](https://github.com/arXivTimes/arXivTimes)  
   arxiveに投稿された論文を誰かが日本語でまとめてくれたもの
-- [papers with code](https://paperswithcode.com/)
+- [papers with code](https://paperswithcode.com/)  
   SOTAモデルを知りたいときに便利  
   githubでコードが公開されている場合が多く、実装までできる
 - [東大　松尾研の輪読会資料](https://deeplearning.jp/seminar-2/)
