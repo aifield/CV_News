@@ -45,12 +45,12 @@ slackで論文などの情報を共有し、月に1回その中から論文を�
    - ICCV　隔年3月に開催
    - ECCV　隔年10月に開催
 - [cvpaper.challenge](http://xpaperchallenge.org/cv/resources)  
-  CVPRで発表された論文を誰かが日本語でまとめてくれたもの
+  CVPRで発表された論文を有志が日本語でまとめてくれたもの
 - [arxive](https://arxiv.org/)  
   査読無しの論文  
   信憑性が低いものも混ざっている
 - [arxiveTimes](https://github.com/arXivTimes/arXivTimes)  
-  arxiveに投稿された論文を誰かが日本語でまとめてくれたもの
+  arxiveに投稿された論文を有志が日本語でまとめてくれたもの
 - [papers with code](https://paperswithcode.com/)  
   SOTAモデルを知りたいときに便利  
   githubでコードが公開されている場合が多く、実装までできる
