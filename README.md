@@ -33,7 +33,7 @@ slackで論文などの情報を共有し、月に1回その中から論文を�
 - githubの紹介の場合は、ノートブックを作成
 - 記事はgithubのissueとして投稿
 - issueのタイトルを論文のタイトルにする
-- 「object detection」,「tracking」などのタグをつける
+- ~「object detection」,「tracking」などのタグをつける~ →　タグは運営側でつけます。
 - issueをcloseにしない
   
 <br>
